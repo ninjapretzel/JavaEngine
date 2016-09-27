@@ -1,6 +1,15 @@
 # JavaEngine
 A silly little java game engine I made during a class I took in 2014.
 
+###You will need LWJGL-2 for whatever operating system you are using.
+Can be found at: http://legacy.lwjgl.org/
+
+Probably also need to fix the reference in the netbeans project after opening it.
+
+###You will also need the slick-2d-utils
+http://slick.ninjacave.com/slick-util/
+
+Same deal with LWJGL-2, you probably need to fix the references
 
 ##There's two classes that are good example 'entry points'
   * Ex6.java - A little drawing program. Inspect the code for the controls- I don't remember all of them.
